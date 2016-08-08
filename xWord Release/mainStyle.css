@@ -1,0 +1,18 @@
+GtkLayout {
+	background-color: #ffffff;
+}
+
+GtkLabel#texts {
+	font-size: 10.5pt;
+	font-weight: bold;
+}
+
+GtkLabel#textsMatchedLetter {
+	font-size: 10.5pt;
+	font-weight: bold;
+	color: #00d200;
+}
+
+GtkListBox {
+	background-color: #ffffff;
+}
